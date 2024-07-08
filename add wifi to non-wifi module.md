@@ -15,7 +15,9 @@ https://github.com/maccoylton/esp-homekit-wired-thermostat/tree/master
 ![thermostat2](https://github.com/victron/ESPHome-Thermostate-Moes-BHT-002/assets/8330202/231b7dcd-7f18-438f-86cc-125c29d0c10c)
 ![thermostat](https://github.com/victron/ESPHome-Thermostate-Moes-BHT-002/assets/8330202/48f9b75e-ff58-4eb4-a8fd-e0bea83312a2)
 
+[code](./esp-12/)
 
-TODO:
+
+## TODO:
 - sleep mode - можливо
 
